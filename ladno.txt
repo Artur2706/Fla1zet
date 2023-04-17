@@ -1,0 +1,6 @@
+git add .
+git comit - m "beliinegr"
+git init
+git push
+git pull
+
